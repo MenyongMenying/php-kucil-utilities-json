@@ -8,13 +8,14 @@
         }
     ],
     "minimum-stability": "dev",
-    "version": "0.0.1",
+    "version": "0.0.1-a",
     "autoload": {
         "psr-4": {
             "MenyongMenying\\MLibrary\\Kucil\\Utilities\\Json\\": "./src/"
         }
     },
     "require": {
+        "menyong-menying/kucil-utilities-marray": "v0.0.1",
         "menyong-menying/kucil-utilities-mobject": "v0.0.1"
     }
 }

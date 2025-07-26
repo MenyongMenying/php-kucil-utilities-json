@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4358f01bd9b945fbd45bc96041605f1b",
+    "content-hash": "0d8e913696aaca56b46797f8d478bfb5",
     "packages": [
         {
             "name": "menyong-menying/kucil-utilities-data",
